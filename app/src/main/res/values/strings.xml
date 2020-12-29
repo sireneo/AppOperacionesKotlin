@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppOperacionesKotlin</string>
+    <string name="txt_dato1">Dame un valor</string>
+    <string name="txt_dato2">Dame otro valor</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="txt_res">Resultado</string>
+</resources>
